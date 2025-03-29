@@ -1,0 +1,348 @@
+2025-03-18 23:54:22,598 - ERROR - �ļ�����ʧ��: C:\Users\Kai\Desktop\Python�ļ�\Account opening software\data\2.csv - 'DataFrame' object has no attribute 'encoding'
+2025-03-18 23:54:55,450 - ERROR - �ļ�����ʧ��: C:\Users\Kai\Desktop\Python�ļ�\Account opening software\data\2.csv - 'DataFrame' object has no attribute 'encoding'
+2025-03-21 19:16:02,148 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\1.csv
+2025-03-21 19:16:02,185 [DEBUG] SHIFT_JIS Japanese prober hit error at byte 9
+2025-03-21 19:16:02,198 [DEBUG] EUC-JP Japanese prober hit error at byte 4483
+2025-03-21 19:16:02,281 [DEBUG] EUC-KR Korean prober hit error at byte 76
+2025-03-21 19:16:02,281 [DEBUG] CP949 Korean prober hit error at byte 76
+2025-03-21 19:16:02,293 [DEBUG] Big5 Chinese prober hit error at byte 5351
+2025-03-21 19:16:02,293 [DEBUG] EUC-TW Taiwan prober hit error at byte 0
+2025-03-21 19:16:02,293 [DEBUG] Johab Korean prober hit error at byte 10
+2025-03-21 19:16:02,335 [DEBUG] utf-8 not active
+2025-03-21 19:16:02,335 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:02,335 [DEBUG] EUC-JP not active
+2025-03-21 19:16:02,335 [DEBUG] GB2312 Chinese confidence = 0.33917153183208226
+2025-03-21 19:16:02,335 [DEBUG] EUC-KR not active
+2025-03-21 19:16:02,335 [DEBUG] CP949 not active
+2025-03-21 19:16:02,335 [DEBUG] Big5 not active
+2025-03-21 19:16:02,335 [DEBUG] EUC-TW not active
+2025-03-21 19:16:02,335 [DEBUG] Johab not active
+2025-03-21 19:16:02,336 [DEBUG] windows-1251 Russian confidence = 0.06083546885581355
+2025-03-21 19:16:02,336 [DEBUG] KOI8-R Russian confidence = 0.16678203959718102
+2025-03-21 19:16:02,336 [DEBUG] ISO-8859-5 Russian confidence = 0.08663942562568455
+2025-03-21 19:16:02,336 [DEBUG] MacCyrillic Russian confidence = 0.1127889041273232
+2025-03-21 19:16:02,336 [DEBUG] IBM866 Russian confidence = 0.04779888677071285
+2025-03-21 19:16:02,336 [DEBUG] IBM855 Russian confidence = 0.06498068792002899
+2025-03-21 19:16:02,336 [DEBUG] ISO-8859-7 Greek confidence = 0.07238626694682156
+2025-03-21 19:16:02,336 [DEBUG] windows-1253 Greek confidence = 0.07316948825177046
+2025-03-21 19:16:02,336 [DEBUG] ISO-8859-5 Bulgarian confidence = 0.09711767099097038
+2025-03-21 19:16:02,338 [DEBUG] windows-1251 Bulgarian confidence = 0.08831589127552414
+2025-03-21 19:16:02,338 [DEBUG] TIS-620 Thai confidence = 0.09354804088729651
+2025-03-21 19:16:02,338 [DEBUG] ISO-8859-9 Turkish confidence = 0.0029731205348753928
+2025-03-21 19:16:02,338 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:02,338 [DEBUG] windows-1255 Hebrew confidence = 0.08830631058401442
+2025-03-21 19:16:02,338 [DEBUG] windows-1255 Hebrew confidence = 0.08793449453945015
+2025-03-21 19:16:02,338 [DEBUG] utf-8 not active
+2025-03-21 19:16:02,338 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:02,339 [DEBUG] EUC-JP not active
+2025-03-21 19:16:02,339 [DEBUG] GB2312 Chinese confidence = 0.33917153183208226
+2025-03-21 19:16:02,339 [DEBUG] EUC-KR not active
+2025-03-21 19:16:02,339 [DEBUG] CP949 not active
+2025-03-21 19:16:02,339 [DEBUG] Big5 not active
+2025-03-21 19:16:02,339 [DEBUG] EUC-TW not active
+2025-03-21 19:16:02,339 [DEBUG] Johab not active
+2025-03-21 19:16:02,343 [INFO] 成功验证编码: gb18030
+2025-03-21 19:16:02,343 [INFO] 最终使用编码: gb18030
+2025-03-21 19:16:02,380 [DEBUG] 成功读取CSV文件，行数: 527
+2025-03-21 19:16:02,382 [DEBUG] 生成搜索变体: {'皇浩楠', '黄浩男', 'huanghaonan', '黄浩楠', '煌浩楠', '黄浩南', '黄皓楠', '黄昊楠', 'hhn'}
+2025-03-21 19:16:02,522 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\2.csv
+2025-03-21 19:16:02,524 [DEBUG] SHIFT_JIS Japanese prober hit error at byte 4
+2025-03-21 19:16:02,526 [DEBUG] EUC-TW Taiwan prober hit error at byte 2
+2025-03-21 19:16:02,526 [DEBUG] Johab Korean prober hit error at byte 45
+2025-03-21 19:16:02,527 [DEBUG] utf-8 not active
+2025-03-21 19:16:02,527 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:02,527 [DEBUG] EUC-JP Japanese confidence = 0.1388888888888889
+2025-03-21 19:16:02,527 [DEBUG] GB2312 Chinese confidence = 0.99
+2025-03-21 19:16:02,528 [DEBUG] EUC-KR Korean confidence = 0.01
+2025-03-21 19:16:02,528 [DEBUG] CP949 Korean confidence = 0.01
+2025-03-21 19:16:02,528 [DEBUG] Big5 Chinese confidence = 0.01
+2025-03-21 19:16:02,528 [DEBUG] EUC-TW not active
+2025-03-21 19:16:02,528 [DEBUG] Johab not active
+2025-03-21 19:16:02,528 [DEBUG] windows-1251 Russian confidence = 0.0
+2025-03-21 19:16:02,528 [DEBUG] KOI8-R Russian confidence = 0.24773216889084462
+2025-03-21 19:16:02,529 [DEBUG] ISO-8859-5 Russian confidence = 0.058179524512243806
+2025-03-21 19:16:02,529 [DEBUG] MacCyrillic Russian confidence = 0.01
+2025-03-21 19:16:02,529 [DEBUG] IBM866 Russian confidence = 0.0
+2025-03-21 19:16:02,529 [DEBUG] IBM855 Russian confidence = 0.04654361960979505
+2025-03-21 19:16:02,529 [DEBUG] ISO-8859-7 Greek confidence = 0.07117950506905472
+2025-03-21 19:16:02,529 [DEBUG] windows-1253 Greek confidence = 0.07391717834094146
+2025-03-21 19:16:02,530 [DEBUG] ISO-8859-5 Bulgarian confidence = 0.0769888269566661
+2025-03-21 19:16:02,530 [DEBUG] windows-1251 Bulgarian confidence = 0.02637548258927433
+2025-03-21 19:16:02,530 [DEBUG] TIS-620 Thai confidence = 0.04040772969390071
+2025-03-21 19:16:02,530 [DEBUG] ISO-8859-9 Turkish confidence = 0.01
+2025-03-21 19:16:02,531 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:02,531 [DEBUG] windows-1255 Hebrew confidence = 0.02822933420776519
+2025-03-21 19:16:02,531 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:02,531 [DEBUG] utf-8 not active
+2025-03-21 19:16:02,531 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:02,531 [DEBUG] EUC-JP Japanese confidence = 0.1388888888888889
+2025-03-21 19:16:02,531 [DEBUG] GB2312 Chinese confidence = 0.99
+2025-03-21 19:16:02,532 [DEBUG] EUC-KR Korean confidence = 0.01
+2025-03-21 19:16:02,532 [DEBUG] CP949 Korean confidence = 0.01
+2025-03-21 19:16:02,532 [DEBUG] Big5 Chinese confidence = 0.01
+2025-03-21 19:16:02,532 [DEBUG] EUC-TW not active
+2025-03-21 19:16:02,532 [DEBUG] Johab not active
+2025-03-21 19:16:02,532 [INFO] 最终使用编码: gb18030
+2025-03-21 19:16:02,535 [DEBUG] 成功读取CSV文件，行数: 2
+2025-03-21 19:16:02,536 [DEBUG] 生成搜索变体: {'皇浩楠', '黄浩男', 'huanghaonan', '黄浩楠', '煌浩楠', '黄浩南', '黄皓楠', '黄昊楠', 'hhn'}
+2025-03-21 19:16:02,547 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\1.xlsx
+2025-03-21 19:16:02,844 [DEBUG] 生成搜索变体: {'皇浩楠', '黄浩男', 'huanghaonan', '黄浩楠', '煌浩楠', '黄浩南', '黄皓楠', '黄昊楠', 'hhn'}
+2025-03-21 19:16:25,409 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\1.csv
+2025-03-21 19:16:25,419 [DEBUG] SHIFT_JIS Japanese prober hit error at byte 9
+2025-03-21 19:16:25,421 [DEBUG] EUC-JP Japanese prober hit error at byte 4483
+2025-03-21 19:16:25,435 [DEBUG] EUC-KR Korean prober hit error at byte 76
+2025-03-21 19:16:25,435 [DEBUG] CP949 Korean prober hit error at byte 76
+2025-03-21 19:16:25,438 [DEBUG] Big5 Chinese prober hit error at byte 5351
+2025-03-21 19:16:25,438 [DEBUG] EUC-TW Taiwan prober hit error at byte 0
+2025-03-21 19:16:25,438 [DEBUG] Johab Korean prober hit error at byte 10
+2025-03-21 19:16:25,463 [DEBUG] utf-8 not active
+2025-03-21 19:16:25,463 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:25,463 [DEBUG] EUC-JP not active
+2025-03-21 19:16:25,464 [DEBUG] GB2312 Chinese confidence = 0.33917153183208226
+2025-03-21 19:16:25,464 [DEBUG] EUC-KR not active
+2025-03-21 19:16:25,464 [DEBUG] CP949 not active
+2025-03-21 19:16:25,464 [DEBUG] Big5 not active
+2025-03-21 19:16:25,464 [DEBUG] EUC-TW not active
+2025-03-21 19:16:25,464 [DEBUG] Johab not active
+2025-03-21 19:16:25,464 [DEBUG] windows-1251 Russian confidence = 0.06083546885581355
+2025-03-21 19:16:25,464 [DEBUG] KOI8-R Russian confidence = 0.16678203959718102
+2025-03-21 19:16:25,464 [DEBUG] ISO-8859-5 Russian confidence = 0.08663942562568455
+2025-03-21 19:16:25,464 [DEBUG] MacCyrillic Russian confidence = 0.1127889041273232
+2025-03-21 19:16:25,464 [DEBUG] IBM866 Russian confidence = 0.04779888677071285
+2025-03-21 19:16:25,464 [DEBUG] IBM855 Russian confidence = 0.06498068792002899
+2025-03-21 19:16:25,464 [DEBUG] ISO-8859-7 Greek confidence = 0.07238626694682156
+2025-03-21 19:16:25,464 [DEBUG] windows-1253 Greek confidence = 0.07316948825177046
+2025-03-21 19:16:25,464 [DEBUG] ISO-8859-5 Bulgarian confidence = 0.09711767099097038
+2025-03-21 19:16:25,464 [DEBUG] windows-1251 Bulgarian confidence = 0.08831589127552414
+2025-03-21 19:16:25,464 [DEBUG] TIS-620 Thai confidence = 0.09354804088729651
+2025-03-21 19:16:25,464 [DEBUG] ISO-8859-9 Turkish confidence = 0.0029731205348753928
+2025-03-21 19:16:25,464 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:25,464 [DEBUG] windows-1255 Hebrew confidence = 0.08830631058401442
+2025-03-21 19:16:25,464 [DEBUG] windows-1255 Hebrew confidence = 0.08793449453945015
+2025-03-21 19:16:25,464 [DEBUG] utf-8 not active
+2025-03-21 19:16:25,464 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:25,464 [DEBUG] EUC-JP not active
+2025-03-21 19:16:25,464 [DEBUG] GB2312 Chinese confidence = 0.33917153183208226
+2025-03-21 19:16:25,464 [DEBUG] EUC-KR not active
+2025-03-21 19:16:25,464 [DEBUG] CP949 not active
+2025-03-21 19:16:25,464 [DEBUG] Big5 not active
+2025-03-21 19:16:25,464 [DEBUG] EUC-TW not active
+2025-03-21 19:16:25,464 [DEBUG] Johab not active
+2025-03-21 19:16:25,466 [INFO] 成功验证编码: gb18030
+2025-03-21 19:16:25,466 [INFO] 最终使用编码: gb18030
+2025-03-21 19:16:25,486 [DEBUG] 成功读取CSV文件，行数: 527
+2025-03-21 19:16:25,489 [DEBUG] 生成搜索变体: {'HHN', 'hhn'}
+2025-03-21 19:16:25,506 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\2.csv
+2025-03-21 19:16:25,506 [DEBUG] SHIFT_JIS Japanese prober hit error at byte 4
+2025-03-21 19:16:25,506 [DEBUG] EUC-TW Taiwan prober hit error at byte 2
+2025-03-21 19:16:25,506 [DEBUG] Johab Korean prober hit error at byte 45
+2025-03-21 19:16:25,507 [DEBUG] utf-8 not active
+2025-03-21 19:16:25,507 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:25,507 [DEBUG] EUC-JP Japanese confidence = 0.1388888888888889
+2025-03-21 19:16:25,507 [DEBUG] GB2312 Chinese confidence = 0.99
+2025-03-21 19:16:25,507 [DEBUG] EUC-KR Korean confidence = 0.01
+2025-03-21 19:16:25,507 [DEBUG] CP949 Korean confidence = 0.01
+2025-03-21 19:16:25,507 [DEBUG] Big5 Chinese confidence = 0.01
+2025-03-21 19:16:25,507 [DEBUG] EUC-TW not active
+2025-03-21 19:16:25,507 [DEBUG] Johab not active
+2025-03-21 19:16:25,507 [DEBUG] windows-1251 Russian confidence = 0.0
+2025-03-21 19:16:25,507 [DEBUG] KOI8-R Russian confidence = 0.24773216889084462
+2025-03-21 19:16:25,507 [DEBUG] ISO-8859-5 Russian confidence = 0.058179524512243806
+2025-03-21 19:16:25,507 [DEBUG] MacCyrillic Russian confidence = 0.01
+2025-03-21 19:16:25,507 [DEBUG] IBM866 Russian confidence = 0.0
+2025-03-21 19:16:25,507 [DEBUG] IBM855 Russian confidence = 0.04654361960979505
+2025-03-21 19:16:25,507 [DEBUG] ISO-8859-7 Greek confidence = 0.07117950506905472
+2025-03-21 19:16:25,507 [DEBUG] windows-1253 Greek confidence = 0.07391717834094146
+2025-03-21 19:16:25,507 [DEBUG] ISO-8859-5 Bulgarian confidence = 0.0769888269566661
+2025-03-21 19:16:25,507 [DEBUG] windows-1251 Bulgarian confidence = 0.02637548258927433
+2025-03-21 19:16:25,507 [DEBUG] TIS-620 Thai confidence = 0.04040772969390071
+2025-03-21 19:16:25,507 [DEBUG] ISO-8859-9 Turkish confidence = 0.01
+2025-03-21 19:16:25,507 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:25,507 [DEBUG] windows-1255 Hebrew confidence = 0.02822933420776519
+2025-03-21 19:16:25,507 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:25,507 [DEBUG] utf-8 not active
+2025-03-21 19:16:25,507 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:25,507 [DEBUG] EUC-JP Japanese confidence = 0.1388888888888889
+2025-03-21 19:16:25,507 [DEBUG] GB2312 Chinese confidence = 0.99
+2025-03-21 19:16:25,507 [DEBUG] EUC-KR Korean confidence = 0.01
+2025-03-21 19:16:25,507 [DEBUG] CP949 Korean confidence = 0.01
+2025-03-21 19:16:25,507 [DEBUG] Big5 Chinese confidence = 0.01
+2025-03-21 19:16:25,507 [DEBUG] EUC-TW not active
+2025-03-21 19:16:25,507 [DEBUG] Johab not active
+2025-03-21 19:16:25,507 [INFO] 最终使用编码: gb18030
+2025-03-21 19:16:25,509 [DEBUG] 成功读取CSV文件，行数: 2
+2025-03-21 19:16:25,509 [DEBUG] 生成搜索变体: {'HHN', 'hhn'}
+2025-03-21 19:16:25,510 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\1.xlsx
+2025-03-21 19:16:25,608 [DEBUG] 生成搜索变体: {'HHN', 'hhn'}
+2025-03-21 19:16:35,649 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\1.csv
+2025-03-21 19:16:35,661 [DEBUG] SHIFT_JIS Japanese prober hit error at byte 9
+2025-03-21 19:16:35,663 [DEBUG] EUC-JP Japanese prober hit error at byte 4483
+2025-03-21 19:16:35,677 [DEBUG] EUC-KR Korean prober hit error at byte 76
+2025-03-21 19:16:35,677 [DEBUG] CP949 Korean prober hit error at byte 76
+2025-03-21 19:16:35,678 [DEBUG] Big5 Chinese prober hit error at byte 5351
+2025-03-21 19:16:35,678 [DEBUG] EUC-TW Taiwan prober hit error at byte 0
+2025-03-21 19:16:35,678 [DEBUG] Johab Korean prober hit error at byte 10
+2025-03-21 19:16:35,705 [DEBUG] utf-8 not active
+2025-03-21 19:16:35,705 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:35,705 [DEBUG] EUC-JP not active
+2025-03-21 19:16:35,705 [DEBUG] GB2312 Chinese confidence = 0.33917153183208226
+2025-03-21 19:16:35,705 [DEBUG] EUC-KR not active
+2025-03-21 19:16:35,705 [DEBUG] CP949 not active
+2025-03-21 19:16:35,705 [DEBUG] Big5 not active
+2025-03-21 19:16:35,705 [DEBUG] EUC-TW not active
+2025-03-21 19:16:35,705 [DEBUG] Johab not active
+2025-03-21 19:16:35,705 [DEBUG] windows-1251 Russian confidence = 0.06083546885581355
+2025-03-21 19:16:35,705 [DEBUG] KOI8-R Russian confidence = 0.16678203959718102
+2025-03-21 19:16:35,705 [DEBUG] ISO-8859-5 Russian confidence = 0.08663942562568455
+2025-03-21 19:16:35,705 [DEBUG] MacCyrillic Russian confidence = 0.1127889041273232
+2025-03-21 19:16:35,705 [DEBUG] IBM866 Russian confidence = 0.04779888677071285
+2025-03-21 19:16:35,705 [DEBUG] IBM855 Russian confidence = 0.06498068792002899
+2025-03-21 19:16:35,705 [DEBUG] ISO-8859-7 Greek confidence = 0.07238626694682156
+2025-03-21 19:16:35,705 [DEBUG] windows-1253 Greek confidence = 0.07316948825177046
+2025-03-21 19:16:35,705 [DEBUG] ISO-8859-5 Bulgarian confidence = 0.09711767099097038
+2025-03-21 19:16:35,705 [DEBUG] windows-1251 Bulgarian confidence = 0.08831589127552414
+2025-03-21 19:16:35,705 [DEBUG] TIS-620 Thai confidence = 0.09354804088729651
+2025-03-21 19:16:35,706 [DEBUG] ISO-8859-9 Turkish confidence = 0.0029731205348753928
+2025-03-21 19:16:35,706 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:35,706 [DEBUG] windows-1255 Hebrew confidence = 0.08830631058401442
+2025-03-21 19:16:35,706 [DEBUG] windows-1255 Hebrew confidence = 0.08793449453945015
+2025-03-21 19:16:35,706 [DEBUG] utf-8 not active
+2025-03-21 19:16:35,706 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:35,706 [DEBUG] EUC-JP not active
+2025-03-21 19:16:35,706 [DEBUG] GB2312 Chinese confidence = 0.33917153183208226
+2025-03-21 19:16:35,706 [DEBUG] EUC-KR not active
+2025-03-21 19:16:35,706 [DEBUG] CP949 not active
+2025-03-21 19:16:35,706 [DEBUG] Big5 not active
+2025-03-21 19:16:35,706 [DEBUG] EUC-TW not active
+2025-03-21 19:16:35,706 [DEBUG] Johab not active
+2025-03-21 19:16:35,706 [INFO] 成功验证编码: gb18030
+2025-03-21 19:16:35,706 [INFO] 最终使用编码: gb18030
+2025-03-21 19:16:35,711 [DEBUG] 成功读取CSV文件，行数: 527
+2025-03-21 19:16:35,712 [DEBUG] 生成搜索变体: {'煌浩楠', '黄昊楠', 'huanghaonan', '皇浩楠', '黄皓楠', '黄浩南', '黄浩楠', '黄浩男', 'hhn'}
+2025-03-21 19:16:35,753 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\2.csv
+2025-03-21 19:16:35,754 [DEBUG] SHIFT_JIS Japanese prober hit error at byte 4
+2025-03-21 19:16:35,754 [DEBUG] EUC-TW Taiwan prober hit error at byte 2
+2025-03-21 19:16:35,754 [DEBUG] Johab Korean prober hit error at byte 45
+2025-03-21 19:16:35,754 [DEBUG] utf-8 not active
+2025-03-21 19:16:35,754 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:35,754 [DEBUG] EUC-JP Japanese confidence = 0.1388888888888889
+2025-03-21 19:16:35,754 [DEBUG] GB2312 Chinese confidence = 0.99
+2025-03-21 19:16:35,754 [DEBUG] EUC-KR Korean confidence = 0.01
+2025-03-21 19:16:35,754 [DEBUG] CP949 Korean confidence = 0.01
+2025-03-21 19:16:35,754 [DEBUG] Big5 Chinese confidence = 0.01
+2025-03-21 19:16:35,754 [DEBUG] EUC-TW not active
+2025-03-21 19:16:35,754 [DEBUG] Johab not active
+2025-03-21 19:16:35,754 [DEBUG] windows-1251 Russian confidence = 0.0
+2025-03-21 19:16:35,754 [DEBUG] KOI8-R Russian confidence = 0.24773216889084462
+2025-03-21 19:16:35,754 [DEBUG] ISO-8859-5 Russian confidence = 0.058179524512243806
+2025-03-21 19:16:35,754 [DEBUG] MacCyrillic Russian confidence = 0.01
+2025-03-21 19:16:35,754 [DEBUG] IBM866 Russian confidence = 0.0
+2025-03-21 19:16:35,754 [DEBUG] IBM855 Russian confidence = 0.04654361960979505
+2025-03-21 19:16:35,754 [DEBUG] ISO-8859-7 Greek confidence = 0.07117950506905472
+2025-03-21 19:16:35,754 [DEBUG] windows-1253 Greek confidence = 0.07391717834094146
+2025-03-21 19:16:35,755 [DEBUG] ISO-8859-5 Bulgarian confidence = 0.0769888269566661
+2025-03-21 19:16:35,755 [DEBUG] windows-1251 Bulgarian confidence = 0.02637548258927433
+2025-03-21 19:16:35,755 [DEBUG] TIS-620 Thai confidence = 0.04040772969390071
+2025-03-21 19:16:35,755 [DEBUG] ISO-8859-9 Turkish confidence = 0.01
+2025-03-21 19:16:35,755 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:35,755 [DEBUG] windows-1255 Hebrew confidence = 0.02822933420776519
+2025-03-21 19:16:35,755 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:16:35,755 [DEBUG] utf-8 not active
+2025-03-21 19:16:35,755 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:16:35,755 [DEBUG] EUC-JP Japanese confidence = 0.1388888888888889
+2025-03-21 19:16:35,755 [DEBUG] GB2312 Chinese confidence = 0.99
+2025-03-21 19:16:35,755 [DEBUG] EUC-KR Korean confidence = 0.01
+2025-03-21 19:16:35,755 [DEBUG] CP949 Korean confidence = 0.01
+2025-03-21 19:16:35,755 [DEBUG] Big5 Chinese confidence = 0.01
+2025-03-21 19:16:35,755 [DEBUG] EUC-TW not active
+2025-03-21 19:16:35,755 [DEBUG] Johab not active
+2025-03-21 19:16:35,755 [INFO] 最终使用编码: gb18030
+2025-03-21 19:16:35,756 [DEBUG] 成功读取CSV文件，行数: 2
+2025-03-21 19:16:35,756 [DEBUG] 生成搜索变体: {'煌浩楠', '黄昊楠', 'huanghaonan', '皇浩楠', '黄皓楠', '黄浩南', '黄浩楠', '黄浩男', 'hhn'}
+2025-03-21 19:16:35,759 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\1.xlsx
+2025-03-21 19:16:35,859 [DEBUG] 生成搜索变体: {'煌浩楠', '黄昊楠', 'huanghaonan', '皇浩楠', '黄皓楠', '黄浩南', '黄浩楠', '黄浩男', 'hhn'}
+2025-03-21 19:27:26,130 [ERROR] CSV读取失败: 'gb2312' codec can't decode byte 0xb5 in position 4482: illegal multibyte sequence
+2025-03-21 19:27:33,305 [ERROR] CSV读取失败: 'gb2312' codec can't decode byte 0xb5 in position 4482: illegal multibyte sequence
+2025-03-21 19:29:05,658 [WARNING] Openpyxl读取失败，尝试xlrd: File is not a zip file
+2025-03-21 19:29:38,593 [WARNING] Openpyxl读取失败，尝试xlrd: File is not a zip file
+2025-03-21 19:42:50,481 [WARNING] Openpyxl读取失败，尝试xlrd: File is not a zip file
+2025-03-21 19:43:12,587 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\2.csv
+2025-03-21 19:43:12,588 [DEBUG] SHIFT_JIS Japanese prober hit error at byte 4
+2025-03-21 19:43:12,588 [DEBUG] EUC-TW Taiwan prober hit error at byte 2
+2025-03-21 19:43:12,588 [DEBUG] Johab Korean prober hit error at byte 45
+2025-03-21 19:43:12,588 [DEBUG] utf-8 not active
+2025-03-21 19:43:12,588 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:43:12,588 [DEBUG] EUC-JP Japanese confidence = 0.1388888888888889
+2025-03-21 19:43:12,588 [DEBUG] GB2312 Chinese confidence = 0.99
+2025-03-21 19:43:12,589 [DEBUG] EUC-KR Korean confidence = 0.01
+2025-03-21 19:43:12,589 [DEBUG] CP949 Korean confidence = 0.01
+2025-03-21 19:43:12,589 [DEBUG] Big5 Chinese confidence = 0.01
+2025-03-21 19:43:12,589 [DEBUG] EUC-TW not active
+2025-03-21 19:43:12,589 [DEBUG] Johab not active
+2025-03-21 19:43:12,589 [DEBUG] windows-1251 Russian confidence = 0.0
+2025-03-21 19:43:12,589 [DEBUG] KOI8-R Russian confidence = 0.24773216889084462
+2025-03-21 19:43:12,589 [DEBUG] ISO-8859-5 Russian confidence = 0.058179524512243806
+2025-03-21 19:43:12,589 [DEBUG] MacCyrillic Russian confidence = 0.01
+2025-03-21 19:43:12,589 [DEBUG] IBM866 Russian confidence = 0.0
+2025-03-21 19:43:12,589 [DEBUG] IBM855 Russian confidence = 0.04654361960979505
+2025-03-21 19:43:12,589 [DEBUG] ISO-8859-7 Greek confidence = 0.07117950506905472
+2025-03-21 19:43:12,589 [DEBUG] windows-1253 Greek confidence = 0.07391717834094146
+2025-03-21 19:43:12,589 [DEBUG] ISO-8859-5 Bulgarian confidence = 0.0769888269566661
+2025-03-21 19:43:12,589 [DEBUG] windows-1251 Bulgarian confidence = 0.02637548258927433
+2025-03-21 19:43:12,589 [DEBUG] TIS-620 Thai confidence = 0.04040772969390071
+2025-03-21 19:43:12,589 [DEBUG] ISO-8859-9 Turkish confidence = 0.01
+2025-03-21 19:43:12,589 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:43:12,589 [DEBUG] windows-1255 Hebrew confidence = 0.02822933420776519
+2025-03-21 19:43:12,589 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:43:12,589 [DEBUG] utf-8 not active
+2025-03-21 19:43:12,589 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:43:12,589 [DEBUG] EUC-JP Japanese confidence = 0.1388888888888889
+2025-03-21 19:43:12,589 [DEBUG] GB2312 Chinese confidence = 0.99
+2025-03-21 19:43:12,589 [DEBUG] EUC-KR Korean confidence = 0.01
+2025-03-21 19:43:12,589 [DEBUG] CP949 Korean confidence = 0.01
+2025-03-21 19:43:12,589 [DEBUG] Big5 Chinese confidence = 0.01
+2025-03-21 19:43:12,589 [DEBUG] EUC-TW not active
+2025-03-21 19:43:12,589 [DEBUG] Johab not active
+2025-03-21 19:43:12,589 [INFO] 最终使用编码: gb18030
+2025-03-21 19:43:12,594 [DEBUG] 成功读取CSV文件，行数: 2
+2025-03-21 19:43:12,594 [DEBUG] 生成搜索变体: {'皇浩楠', '黄浩楠', '煌浩楠', '黄皓楠', '黄浩南', 'huanghaonan', '黄浩男', 'hhn', '黄昊楠'}
+2025-03-21 19:43:12,596 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\4.csv
+2025-03-21 19:43:12,606 [DEBUG] SHIFT_JIS Japanese prober hit error at byte 9
+2025-03-21 19:43:12,608 [DEBUG] EUC-JP Japanese prober hit error at byte 4963
+2025-03-21 19:43:12,627 [DEBUG] EUC-KR Korean prober hit error at byte 76
+2025-03-21 19:43:12,627 [DEBUG] CP949 Korean prober hit error at byte 76
+2025-03-21 19:43:12,630 [DEBUG] Big5 Chinese prober hit error at byte 5927
+2025-03-21 19:43:12,630 [DEBUG] EUC-TW Taiwan prober hit error at byte 0
+2025-03-21 19:43:12,630 [DEBUG] Johab Korean prober hit error at byte 10
+2025-03-21 19:43:12,660 [DEBUG] utf-8 not active
+2025-03-21 19:43:12,660 [DEBUG] SHIFT_JIS not active
+2025-03-21 19:43:12,660 [DEBUG] EUC-JP not active
+2025-03-21 19:43:12,660 [DEBUG] GB2312 Chinese confidence = 0.33917153183208226
+2025-03-21 19:43:12,660 [DEBUG] EUC-KR not active
+2025-03-21 19:43:12,660 [DEBUG] CP949 not active
+2025-03-21 19:43:12,660 [DEBUG] Big5 not active
+2025-03-21 19:43:12,660 [DEBUG] EUC-TW not active
+2025-03-21 19:43:12,660 [DEBUG] Johab not active
+2025-03-21 19:43:12,660 [DEBUG] windows-1251 Russian confidence = 0.06083546885581355
+2025-03-21 19:43:12,660 [DEBUG] KOI8-R Russian confidence = 0.16678203959718102
+2025-03-21 19:43:12,660 [DEBUG] ISO-8859-5 Russian confidence = 0.08663942562568455
+2025-03-21 19:43:12,660 [DEBUG] MacCyrillic Russian confidence = 0.1127889041273232
+2025-03-21 19:43:12,660 [DEBUG] IBM866 Russian confidence = 0.04779888677071285
+2025-03-21 19:43:12,660 [DEBUG] IBM855 Russian confidence = 0.06498068792002899
+2025-03-21 19:43:12,660 [DEBUG] ISO-8859-7 Greek confidence = 0.07238626694682156
+2025-03-21 19:43:12,660 [DEBUG] windows-1253 Greek confidence = 0.07316948825177046
+2025-03-21 19:43:12,660 [DEBUG] ISO-8859-5 Bulgarian confidence = 0.09711767099097038
+2025-03-21 19:43:12,660 [DEBUG] windows-1251 Bulgarian confidence = 0.08831589127552414
+2025-03-21 19:43:12,660 [DEBUG] TIS-620 Thai confidence = 0.09354804088729651
+2025-03-21 19:43:12,660 [DEBUG] ISO-8859-9 Turkish confidence = 0.0029731205348753928
+2025-03-21 19:43:12,660 [DEBUG] windows-1255 Hebrew confidence = 0.0
+2025-03-21 19:43:12,660 [DEBUG] windows-1255 Hebrew confidence = 0.08830631058401442
+2025-03-21 19:43:12,660 [DEBUG] windows-1255 Hebrew confidence = 0.08793449453945015
+2025-03-21 19:43:12,661 [INFO] 成功验证编码: gb18030
+2025-03-21 19:43:12,661 [INFO] 最终使用编码: gb18030
+2025-03-21 19:43:12,665 [DEBUG] 成功读取CSV文件，行数: 527
+2025-03-21 19:43:12,666 [DEBUG] 生成搜索变体: {'皇浩楠', '黄浩楠', '煌浩楠', '黄皓楠', '黄浩南', 'huanghaonan', '黄浩男', 'hhn', '黄昊楠'}
+2025-03-21 19:43:12,712 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\3.xls
+2025-03-21 19:43:12,719 [ERROR] 文件读取失败: File is not a zip file
+2025-03-21 19:43:12,719 [INFO] 开始处理文件: C:\Users\Kai\Desktop\Python文件\Account opening software\data\1.xlsx
+2025-03-21 19:43:12,776 [DEBUG] 生成搜索变体: {'皇浩楠', '黄浩楠', '煌浩楠', '黄皓楠', '黄浩南', 'huanghaonan', '黄浩男', 'hhn', '黄昊楠'}
